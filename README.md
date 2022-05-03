@@ -1,4 +1,7 @@
 ### Hi there 👋
+# Olá, eu sou o Professor Hugo e sou formado em Geografia pela Universidade Estadual de Londrina (UEL).
+### Atualmente, além de ministrar as aulas de Geografia para os Ensinos Fundamental e Médio, também estou com a disciplina de *Pensamento Computacional para o Novo Ensino Médio.
+
 
 <!--
 **geohugo/geohugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
