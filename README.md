@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Olá, eu sou o Professor Hugo e sou formado em Geografia pela Universidade Estadual de Londrina (UEL).
-### Atualmente, além de ministrar as aulas de Geografia para os Ensinos Fundamental e Médio, também estou com a disciplina de *Pensamento Computacional para o Novo Ensino Médio.
+### Atualmente, além de ministrar as aulas de Geografia para os Ensinos Fundamental e Médio, também estou com a disciplina de *Pensamento Computacional* para o Novo Ensino Médio e estudando programação em *Scratch e Javascript*.
 
 
 <!--
