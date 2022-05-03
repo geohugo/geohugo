@@ -1,6 +1,11 @@
 ### Hi there 👋
+
 # Olá, eu sou o Professor Hugo e sou formado em Geografia pela Universidade Estadual de Londrina (UEL).
+
 ### Atualmente, além de ministrar as aulas de Geografia para os Ensinos Fundamental e Médio, também estou com a disciplina de *Pensamento Computacional* para o Novo Ensino Médio e estudando programação em *Scratch e Javascript*.
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
 
 <!--
